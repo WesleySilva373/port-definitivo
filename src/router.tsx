@@ -60,6 +60,11 @@ export const getRouter = () => {
   const router = createRouter({
     routeTree,
     history: hashHistory,
+    defaultNotFoundComponent: () => {
+      // Força o redirecionamento para a home se der 404
+      window.location.hash = "/";
+      return null;
+    },
     context: {},
     scrollRestoration: true,
     defaultPreloadStaleTime: 0,
