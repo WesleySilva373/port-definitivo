@@ -1,3 +1,4 @@
+// Last deploy update: 20/04/2026
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { RouterProvider } from '@tanstack/react-router'
