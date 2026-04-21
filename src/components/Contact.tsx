@@ -22,10 +22,13 @@ export function Contact() {
               Aberto a freelances, colaborações e oportunidades full-time. Respondo em até 24h.
             </p>
 
-            <a href="mailto:wesleytenorio526@gmail.com" className="btn-primary group mt-8">
-              <Mail className="h-4 w-4" />
-              wesleytenorio526@gmail.com
-              <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+            <a 
+              href="mailto:wesleytenorio526@gmail.com" 
+              className="btn-primary group mt-8 max-w-full px-4 py-3 text-[10px] sm:px-6 sm:py-3 sm:text-sm"
+            >
+              <Mail className="h-4 w-4 shrink-0" />
+              <span className="truncate">wesleytenorio526@gmail.com</span>
+              <ArrowUpRight className="h-4 w-4 shrink-0 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
             </a>
 
             <div className="mt-10 flex items-center justify-center gap-3">

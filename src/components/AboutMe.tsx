@@ -16,19 +16,20 @@ export function AboutMe() {
                 <span className="font-serif italic text-muted-foreground">código limpo</span>.
               </h2>
               <p className="mt-6 text-base leading-relaxed text-muted-foreground">
-                Estou em transição de carreira para a área de tecnologia, mais especificamente para o desenvolvimento de software. 
-                Antes disso, não tinha contato direto com a área, mas comecei a estudar programação e fui me interessando cada 
-                vez mais por como os sistemas funcionam e como é possível criar soluções usando texto.
+                Estou em transição de carreira para a área de tecnologia, com foco total em desenvolvimento de software. 
+                Mais do que mudar de área, meu objetivo é atingir a excelência técnica. Comecei a estudar programação 
+                e logo percebi que não queria apenas entender como os sistemas funcionam, mas sim dominar a arte de 
+                criar soluções impecáveis através do código.
               </p>
               <p className="mt-4 text-base leading-relaxed text-muted-foreground">
-                Essa mudança não foi imediata. Estou passando por um processo de aprendizado, começando do básico e construindo 
-                uma base sólida em lógica de programação, desenvolvimento web e outras tecnologias. Sei que é uma área que exige 
-                dedicação e prática constante, então tenho me esforçado para evoluir aos poucos. 
+                Essa mudança tem sido gradual, consciente e extremamente ambiciosa. Construí uma base sólida em lógica 
+                e desenvolvimento web, mas não me contento com o básico: busco evolução contínua e superação a cada 
+                projeto. Sei que o mercado exige dedicação extrema, e é exatamente isso que entrego.
               </p>
               <p className="mt-4 text-base leading-relaxed text-muted-foreground">
-                Hoje meu foco é ganhar experiência prática, seja com projetos pessoais ou oportunidades de estágio, para conseguir 
-                me desenvolver na área e me inserir no mercado de tecnologia. Estou tratando essa transição como um processo 
-                sério de construção de carreira, com paciência e consistência.
+                Atualmente, meu foco é ganhar experiência prática e me inserir no mercado, tratando cada desafio como 
+                uma oportunidade para provar minha consistência e minha vontade de ser, a cada dia, um desenvolvedor 
+                melhor e mais completo.
               </p>
             </div>
           </Reveal>

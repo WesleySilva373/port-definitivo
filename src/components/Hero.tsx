@@ -58,8 +58,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.25 }}
           className="mt-6 max-w-2xl text-balance text-base leading-relaxed text-white sm:text-lg"
         >
-          Transformando complexidade em elegância digital. Performance, cuidado e propósito em cada
-          linha de código.
+          Minha meta é a excelência; minha ferramenta é o código.
         </motion.p>
 
         <motion.p
