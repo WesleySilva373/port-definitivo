@@ -1,18 +1,9 @@
-<img width="1376" height="768" alt="unnamed4" src="https://github.com/user-attachments/assets/93cdc2c3-a18b-4173-9616-50b5129fba44" />
-<img width="1376" height="768" alt="unname3" src="https://github.com/user-attachments/assets/bda514c8-f7c3-4ad3-8e84-f73089f7b2c0" />
-<img width="1376" height="768" alt="unnamed2" src="https://github.com/user-attachments/assets/7c9b65a5-5005-485c-9051-6ba1f447b985" />
-<p align="center">
-  <img src="./images/slide1.png" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./images/slide2.png" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./images/slide3.png" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./images/slide4.png" width="100%" />
-</p><img width="1376" height="768" alt="unnamed1" src="https://github.com/user-attachments/assets/87dbd260-dbe0-4542-b118-85eeb9a20d32" />
+<img width="1376" height="768" alt="unnamed9" src="https://github.com/user-attachments/assets/9698b65c-efc1-4379-af07-bffc953e8776" />
+<img width="1376" height="768" alt="unnamed8" src="https://github.com/user-attachments/assets/aaec3291-1311-411c-8e66-cc82fd3f1a08" />
+<img width="1376" height="768" alt="unnamed7" src="https://github.com/user-attachments/assets/ff5d3bec-6452-43b4-ba48-6e99d1461071" />
+<img width="1376" height="768" alt="unnamed6" src="https://github.com/user-attachments/assets/36197d2d-0852-4e63-bc5d-de3dff7f9d3d" />
+<img width="1376" height="768" alt="unnamed5" src="https://github.com/user-attachments/assets/74110e37-32fc-48d1-95b9-f29ad8c3e9e6" />
+<img width="1376" height="768" alt="unnamed4" src="https://github.com/user-attachments/assets/27b4693a-2d95-4e24-b1b5-732376a331f1" />
+<img width="1376" height="768" alt="unname3" src="https://github.com/user-attachments/assets/9388cf16-6881-4f97-9671-f30ab760b26f" />
+<img width="1376" height="768" alt="unnamed2" src="https://github.com/user-attachments/assets/23447153-927e-4478-9dd6-11a26f14a521" />
+<img width="1376" height="768" alt="unnamed1" src="https://github.com/user-attachments/assets/98229103-f42e-44da-8ec0-15eb5ae433c2" />
